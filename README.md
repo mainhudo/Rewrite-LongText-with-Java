@@ -1,2 +1,2 @@
 # ScriptRewrite
-My own code. Different Java commands replacing certain words in an English document with another characters or reversing words
+My own, original code. Different Java commands that play around with a document. For example, replace certain words with another characters or revere words
